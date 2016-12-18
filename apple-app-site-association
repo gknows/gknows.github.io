@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "com.ringoh.app.gknows",
+                "appID": "99MRWBVH2W.com.ringoh.app.gknows",
                 "paths": [ "/1*", "/2*", "/3*", "/4*", "/5*", "/6*", "/7*", "/9*", "/0*" ]
             }
         ]
